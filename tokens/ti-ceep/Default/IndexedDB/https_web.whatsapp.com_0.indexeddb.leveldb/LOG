@@ -1,0 +1,21 @@
+2022/12/01-13:01:48.981 6f27 Reusing MANIFEST /workspaces/ceep-ti-bot/tokens/ti-ceep/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/01-13:01:48.982 6f27 Recovering log #93
+2022/12/01-13:01:49.128 6f27 Reusing old log /workspaces/ceep-ti-bot/tokens/ti-ceep/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000093.log 
+2022/12/01-13:02:01.391 6f4c Level-0 table #102: started
+2022/12/01-13:02:01.547 6f4c Level-0 table #102: 1124901 bytes OK
+2022/12/01-13:02:01.572 6f4c Delete type=0 #93
+2022/12/01-13:02:02.235 6f48 Compacting 1@1 + 5@2 files
+2022/12/01-13:02:02.354 6f48 Generated table #103@1: 19556 keys, 2192373 bytes
+2022/12/01-13:02:02.443 6f48 Generated table #104@1: 2797 keys, 2158505 bytes
+2022/12/01-13:02:02.605 6f48 Generated table #105@1: 15958 keys, 2206658 bytes
+2022/12/01-13:02:02.788 6f48 Generated table #106@1: 25355 keys, 2210708 bytes
+2022/12/01-13:02:02.982 6f48 Generated table #107@1: 103623 keys, 2254431 bytes
+2022/12/01-13:02:03.001 6f48 Generated table #108@1: 409 keys, 11453 bytes
+2022/12/01-13:02:03.001 6f48 Compacted 1@1 + 5@2 files => 11034128 bytes
+2022/12/01-13:02:03.037 6f48 compacted to: files[ 0 0 6 0 0 0 0 ]
+2022/12/01-13:02:03.038 6f48 Delete type=2 #99
+2022/12/01-13:02:03.038 6f48 Delete type=2 #95
+2022/12/01-13:02:03.038 6f48 Delete type=2 #96
+2022/12/01-13:02:03.038 6f48 Delete type=2 #98
+2022/12/01-13:02:03.038 6f48 Delete type=2 #97
+2022/12/01-13:02:03.038 6f48 Delete type=2 #102
